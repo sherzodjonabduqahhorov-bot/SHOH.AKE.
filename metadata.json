@@ -1,0 +1,6 @@
+{
+  "name": "Kushon Texnik Ko'rik",
+  "description": "Kushon Texnik Ko'rik — Ilova D (Majburiy) gazballonlar bo'yicha texnik ko'rik guvohnomasi shakli va chop etish tizimi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
